@@ -7,13 +7,11 @@
 //     cookieKey: "asndugfuwbe423423e21fnaidnuudhuewifiufanda",
 //   };
 
-
 module.exports = {
-    googleClientID:
-      "602241045530-hhi3ue8gdn9tbibo2fc2f6aeds36e14n.apps.googleusercontent.com",
-    googleClientSecret: "kqqQPbzcIQKpT9_kp6sxmd0a",
-    mongoURI:
-      "mongodb+srv://xinyuexiang:xiangxinyue219@cluster0-i7p5y.mongodb.net/litapp?retryWrites=true&w=majority",
-    cookieKey: "asndugfuwbe423423e21fnaidnuudhuewifiufanda",
-  };
-
+  googleClientID:
+    "602241045530-hhi3ue8gdn9tbibo2fc2f6aeds36e14n.apps.googleusercontent.com",
+  googleClientSecret: "kqqQPbzcIQKpT9_kp6sxmd0a",
+  mongoURI:
+    "mongodb+srv://xinyuexiang:xiangxinyue219@cluster0-i7p5y.mongodb.net/litapp?retryWrites=true&w=majority",
+  cookieKey: "asndugfuwbe423423e21fnaidnuudhuewifiufanda",
+};

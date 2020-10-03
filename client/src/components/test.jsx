@@ -26,9 +26,9 @@ class Test extends React.Component {
     this.timer = setInterval(
       () =>
         this.setState({
-          time: this.state.time + 0.01,
+          time: this.state.time + 0.001,
         }),
-      10
+      1
     );
     console.log("start");
   };
